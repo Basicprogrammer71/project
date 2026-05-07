@@ -27,7 +27,7 @@ All three team members contributed to the preprocessing / pre-EDA stage. This no
 
 
 ## Clustering - `Classification_Models.ipynb` — 
-Loads precomputed TF-IDF features, sweeps Multinomial Naive Bayes / Decision Tree / Random Forest, runs all three hypothesis tests, produces every figure used in the report.### Inputs used
+Loads precomputed TF-IDF features, sweeps Multinomial Naive Bayes / Decision Tree / Random Forest, runs all three hypothesis tests, produces every figure used in the report.
 
 The four large data files used for classification to run properly was:
 - `dblp_preprocessed.parquet` — raw paper metadata
